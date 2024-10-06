@@ -12,16 +12,20 @@
     "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "ai": "^3.4.7",
+    "canvas-confetti": "^1.9.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.446.0",
     "next": "14.2.13",
+    "node-fetch": "^2.7.0",
+    "openai": "^4.67.1",
     "openai-edge": "^1.2.2",
     "react": "^18",
     "react-dom": "^18",
     "shadcn": "^2.1.0",
     "tailwind-merge": "^2.5.2",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "weaviate-ts-client": "^2.2.0"
   },
   "devDependencies": {
     "postcss": "^8",
